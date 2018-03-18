@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProfilePage</string>
+    <string name="profile">profile</string>
+    <string name="follow_button">+ Follow</string>
+    <string name="profile_name">Sandra Coleman</string>
+    <string name="person_email">sandra-coleman.co.uk</string>
+    <string name="profile_info"><![CDATA[Write a few words about the author so your friends can easily identify your interests & new friends can add you.]]></string>
+</resources>
